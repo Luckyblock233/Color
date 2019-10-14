@@ -12,7 +12,11 @@ A funny game to relax.
 
 > How do I play this game?
 
-You just need two keys -- key "left" and key "right". Press "left" while the color of text doesn't equal to the color of text's meaning. Otherwise, press "right". When you press the incorrect key, you'll fail this game.
+You just need two keys -- key "left" and key "right".
+
+Press "left" while the color of text doesn't equal to the color of text's meaning. Otherwise, press "right".
+
+When you press the incorrect key, you'll fail this game.
 
 > How to change the size of console window?
 
